@@ -7,6 +7,9 @@ AdminRDP allows you to store an unlimited number of credentials that are NOT tie
 SERVER LISTS AND GROUPS
 Allows you to save servers and lists of servers so you do not have to keep typing in the same name over and over again. There is also an import from a list option if you have a particular list of servers you would like to transfer. 
 
+CURRENT RELEASE
+The current release is under the RELEASE folder. Run the BAT file to install and it will take care of the rest. 
+
 REQUIREMENTS
 Powershell 3.0 or greater
 .NET 4.6.1
