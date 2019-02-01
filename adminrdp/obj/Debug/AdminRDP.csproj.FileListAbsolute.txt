@@ -1,0 +1,88 @@
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe.config
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe.manifest
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\bin\Debug\AdminRDP.application
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\bin\Debug\AdminRDP.pdb
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\bin\Debug\CodersLab.Windows.Controls.TreeView.dll
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.ResolveComReference.cache
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form1.resources
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form2.resources
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form3.resources
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Properties.Resources.resources
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.GenerateResource.Cache
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.exe.manifest
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.application
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.exe
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.pdb
+C:\Users\c69007\documents\visual studio 2017\Projects\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csprojResolveAssemblyReference.cache
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe.config
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe.manifest
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\bin\Debug\AdminRDP.application
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\bin\Debug\AdminRDP.pdb
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\bin\Debug\CodersLab.Windows.Controls.TreeView.dll
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.ResolveComReference.cache
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form1.resources
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form2.resources
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form3.resources
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Properties.Resources.resources
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.GenerateResource.Cache
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.CoreCompileInputs.cache
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.exe.manifest
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.application
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.exe
+C:\Users\c69007\Documents\GitSht\AdminRDP\AdminRDP\obj\Debug\AdminRDP.pdb
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe.config
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe.manifest
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\bin\Debug\AdminRDP.application
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\bin\Debug\AdminRDP.exe
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\bin\Debug\AdminRDP.pdb
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\bin\Debug\CodersLab.Windows.Controls.TreeView.dll
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csprojResolveAssemblyReference.cache
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.ResolveComReference.cache
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form1.resources
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form2.resources
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Form3.resources
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.Properties.Resources.resources
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.GenerateResource.cache
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.CoreCompileInputs.cache
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.exe.manifest
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.application
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.csproj.CopyComplete
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.exe
+C:\Users\c69007\Documents\Git\AdminRDP\AdminRDP\obj\Debug\AdminRDP.pdb
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.csprojAssemblyReference.cache
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.csproj.ResolveComReference.cache
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.Form1.resources
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.Form2.resources
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.Form3.resources
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.Properties.Resources.resources
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.csproj.GenerateResource.cache
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.csproj.CoreCompileInputs.cache
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.exe
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.pdb
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\bin\Debug\AdminRDP.exe.config
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\bin\Debug\AdminRDP.exe.manifest
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\bin\Debug\AdminRDP.application
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\bin\Debug\AdminRDP.exe
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\bin\Debug\AdminRDP.pdb
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\bin\Debug\CodersLab.Windows.Controls.TreeView.dll
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.exe.manifest
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.application
+C:\Users\c69007\Documents\Git\MyProjects\adminrdp\AdminRDP\obj\Debug\AdminRDP.csproj.CopyComplete
